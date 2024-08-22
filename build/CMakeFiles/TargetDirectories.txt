@@ -1,0 +1,3 @@
+/home/ljw/Series/build/CMakeFiles/rebuild_cache.dir
+/home/ljw/Series/build/CMakeFiles/edit_cache.dir
+/home/ljw/Series/build/CMakeFiles/main.dir
