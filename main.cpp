@@ -1,6 +1,6 @@
-#include "my_class.h"
-#include "serial.h"
-#include "deserial.h"
+#include "dump_my_class.h"
+#include "dump_serial.h"
+#include "dump_deserial.h"
 #include <iostream>
 
 int main() {
